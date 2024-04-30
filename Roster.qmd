@@ -4,3 +4,9 @@ editor: visual
 ---
 
 This is the roster page. Blah
+
+```{r}
+#| echo: false
+roster <- read.csv("BrooksBtn.csv")
+knitr::kable(roster)
+```
