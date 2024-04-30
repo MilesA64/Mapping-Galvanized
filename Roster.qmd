@@ -3,7 +3,7 @@ title: "Roster"
 editor: visual
 ---
 
-This is the roster page. Blah
+This page contains the raw data of the first 79 men on the roster for Brooks' Battalion.
 
 ```{r}
 #| echo: false

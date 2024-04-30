@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+This project was created for the Spring 2024 HIST 5454 Digital History course by Miles Abernethy.
 
-```{r}
-1 + 1
-```
+\`\`\`
