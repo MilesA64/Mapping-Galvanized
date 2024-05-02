@@ -3,7 +3,39 @@ title: "Roster"
 editor: visual
 ---
 
-This page contains the raw data of the first 79 men on the roster for Brooks' Battalion.
+This page contains the raw data of the first 79 men on the roster for Brooks' Battalion. The legend is as follows
+
+-   Name
+
+-   Age
+
+-   Date of Enrollment in Brooks' Battalion
+
+-   Maximum rank achieved in Confederate forces
+
+-   Date of Muster into U.S. Army
+
+-   Initial U.S. Unit of Muster (some men changed units, but this helps better represent place of origin)
+
+-   Maximum rank achieved in U.S. forces
+
+-   Place of birth (with alternative - many men signed on with aliases to protect their identity)
+
+-   Date of capture by Confederate forces
+
+-   Place of capture
+
+-   Prison where individual was initially held (all these men were transferred to Florence Stockade before their enlistment in Brooks' Battalion
+
+-   Parole status
+
+-   Exchange status
+
+-   Date of muster out
+
+-   Escape status
+
+-   Other CS service
 
 ```{r}
 #| echo: false

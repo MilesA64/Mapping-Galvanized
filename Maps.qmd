@@ -2,7 +2,7 @@
 title: "Maps"
 ---
 
-This contains the maps of galvanized
+This page contains the current mapping of the galvanized Confederates. Each location represents a place where a soldier was noted to have originated from, both in Europe and the United States. Places with bolder titles represent multiple instances of origination. Some places of origin are more specific in Europe, but they have been simplified to be just the country of origin.
 
 
 ![](Rplot.png)
