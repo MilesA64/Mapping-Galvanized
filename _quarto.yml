@@ -9,6 +9,7 @@ website:
         text: Home
       - about.qmd
       - Roster.qmd
+      - Maps.qmd
 
 format:
   html:

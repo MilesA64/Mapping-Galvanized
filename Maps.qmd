@@ -1,0 +1,10 @@
+---
+title: "Maps"
+---
+
+This contains the maps of galvanized
+
+
+![](Rplot.png)
+
+![](Rplot2.png)
